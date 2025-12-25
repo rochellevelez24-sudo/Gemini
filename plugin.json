@@ -1,0 +1,10 @@
+{
+  "id": "com.example.myplugin",
+  "name": "My Custom Plugin",
+  "main": "main.js",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "description": "A ai that generates code.",
+  "icon": "icon.png",
+  "readme": "readme.md"
+}
